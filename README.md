@@ -26,5 +26,6 @@ https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javas
 
 ## Principais Tecnologias
 
-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title = "Javascript"/> Javascript: Linguagem usada no curso para aprender lógica de programação.
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title = "Javascript"/> Javascript : Linguagem usada no curso para aprender lógica de programação.
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title = "Vscode"/> Vscode : ide usada para aprender a linguagem Javascript.
 
